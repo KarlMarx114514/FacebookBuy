@@ -1,6 +1,10 @@
 # FacebookBuy
 脸书账号购买
 
+__Facebook邮箱新号-2FA(邮箱不可用)：https://tuitezhanghao.cc/product/1.html__
+
+__Facebook新号-手机和邮箱双验证-欧美IP(美女头像)：https://tuitezhanghao.cc/product/15.html__
+
 使用建议：
 
 使用干净电脑设备，如果没有请使用adspower浏览器登陆账号，使用干净IP登陆账号。
@@ -14,9 +18,5 @@
 刚登入的24小时到48小时内，不能有重大操作，如修改密码、修改名字、修改邮箱、绑定手机号等。
 
 24小时内不要操作，可以热号，如浏览、观看视频等
-
-*Facebook邮箱新号-2FA(邮箱不可用)：https://tuitezhanghao.cc/product/1.html*
-
-*Facebook新号-手机和邮箱双验证-欧美IP(美女头像)：https://tuitezhanghao.cc/product/15.html*
 
 
